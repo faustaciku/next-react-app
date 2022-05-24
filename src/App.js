@@ -1,11 +1,11 @@
 import "./App.css";
+import ExpenseItem from "./ExpenseItem";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Hi</h1>
-      </header>
+      <h1>Hi</h1>
+      <ExpenseItem />
     </div>
   );
 }
