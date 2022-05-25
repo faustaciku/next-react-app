@@ -1,4 +1,4 @@
-import Expenses from "./Expenses";
+import Expenses from "./Expenses/Expenses";
 import "./App.css";
 
 function App() {
